@@ -26,8 +26,6 @@ public class MainActivity extends AppCompatActivity {
         myViewPager2.setOrientation(ViewPager2.ORIENTATION_HORIZONTAL);
 
         myViewPager2.setAdapter(myAdapter);
-
-
         createAllFragments();
     }
 
